@@ -1,6 +1,6 @@
-# TypeScript & Styled Components Next.js example
+# nextjs-camera-spike
 
-This is a really simple project that show the usage of Next.js with TypeScript and Styled Components.
+This is a really simple project that show how to draw on image uploaded by user.
 
 ## Preview
 
